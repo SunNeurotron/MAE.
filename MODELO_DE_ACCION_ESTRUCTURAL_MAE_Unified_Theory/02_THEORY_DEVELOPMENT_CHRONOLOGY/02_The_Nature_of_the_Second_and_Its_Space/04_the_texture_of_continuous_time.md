@@ -16,7 +16,7 @@ The AIE's analysis can reveal:
 *   **Long-Term Drift:** A slow, systematic increase or decrease in the quantity of space over extended periods, suggesting gradual changes in the system or environment (e.g., equipment warming up).
 *   **Anomalous Events:** Sudden, unexpected spikes or dips in the quantity of space, indicating transient external influences (e.g., seismic activity, solar flares) or internal state transitions.
 
-![Análisis del AIE: La Textura del Tiempo Continuo (1 Hora)](input_file_5.jpeg)
+![Análisis del AIE: La Textura del Tiempo Continuo (1 Hora)](./fig_06_texture_of_time.png)
 *Figure 1: Simulation illustrating the "Texture of Time." The plot shows the "Quantity of Space" (volume of variability) for each second over a simulated hour. It reveals cyclical patterns, a long-term drift, and a sudden anomalous event (highlighted in red), demonstrating that the "space" of time is a dynamic and informative medium.*
 
 ## 4.3 Conclusion on the Texture of Time
