@@ -1,3 +1,3 @@
-# 1 introduction
-
-[El contenido de la sección '1 introduction' del paper SAM debe ser insertado aquí.]
+# 1. Introduction
+## **1.1 The Problem of Time in Fundamental Physics**
+The reconciliation of quantum mechanics (QM) and general relativity (GR) remains one of the most profound challenges in theoretical physics...

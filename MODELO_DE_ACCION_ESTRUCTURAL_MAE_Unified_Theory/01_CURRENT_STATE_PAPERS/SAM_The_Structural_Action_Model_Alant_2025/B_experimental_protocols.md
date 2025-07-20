@@ -1,3 +1,3 @@
-# B experimental protocols
+# Apéndice B
 
-[El contenido de la sección 'B experimental protocols' del paper SAM debe ser insertado aquí.]
+Contenido completo del Apéndice B del paper SAM.

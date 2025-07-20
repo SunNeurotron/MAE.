@@ -1,3 +1,4 @@
-# 0 abstract and keywords
-
-[El contenido de la sección '0 abstract and keywords' del paper SAM debe ser insertado aquí.]
+# Abstract and Keywords
+## **Abstract**
+We present the Structural Action Model (SAM), a novel theoretical framework that postulates the fundamental discreteness of time through primordial action quanta...
+**Keywords**: quantum gravity, emergent time, action quantization, spacetime resonances, structural efficiency
