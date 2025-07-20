@@ -11,3 +11,6 @@ This section explores:
 -   **Principle of Structural Limit:** The derivation of the minimum number of events (N=3) required for a structure to emerge and its fundamental action cost (3h).
 
 This body of work establishes the most fundamental energetic and structural principles of the MAE framework developed to date.
+
+---
+**VALIDACIÓN CRUZADA:** Este desarrollo fue validado y complementado por un análisis paralelo del SIASAF. El informe integrado, que incluye la validación numérica, una visualización logarítmica de la jerarquía de energías y un análisis de la complejidad computacional del límite `3h`, está disponible en: `SIASAF_Report_Analysis_Fundamental_Costs_Integrated_20250720.md`.
