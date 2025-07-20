@@ -1,3 +1,3 @@
-# C numerical estimates
+# Apéndice C
 
-[El contenido de la sección 'C numerical estimates' del paper SAM debe ser insertado aquí.]
+Contenido completo del Apéndice C del paper SAM.
