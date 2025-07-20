@@ -15,7 +15,7 @@ The "Quantity of Space" is defined as a measure of the internal variability or i
 
 Mathematically, this "Quantity of Space" is measured as the **sum of the variances of the anomaly characteristics** (e.g., variance of Δt + variance of ΔA + variance of Σ for all events within that second). This metric effectively quantifies the "volume" occupied by the anomaly profiles of the events of a given second.
 
-![Comparación Cuantitativa de Dos Espacios](input_file_2.jpeg)
+![Comparación Cuantitativa de Dos Espacios](./fig_03_space_quantity_comparison.png)
 *Figure 1: Quantitative comparison of two simulated "seconds." The "Espacio del Segundo Tranquilo" (left) shows a compact cloud of anomaly points with a "Quantity" (sum of variances) of 0.0529. The "Espacio del Segundo Agitado" (right) shows a more dispersed cloud, indicating higher variability, with a "Quantity" of 0.1699. This demonstrates that "space" is a measurable quantity representing its internal variability.*
 
 This quantifiable metric allows the AIE to objectively assess the "quality" or "purity" of any given second.

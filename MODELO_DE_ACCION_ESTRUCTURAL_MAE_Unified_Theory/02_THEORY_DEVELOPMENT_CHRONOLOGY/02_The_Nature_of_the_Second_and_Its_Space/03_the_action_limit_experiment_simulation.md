@@ -14,14 +14,14 @@ The experiment involves two conceptually identical and isolated systems: an **Em
 
 The simulation involved injecting a clear sinusoidal pattern into the Emisor's Temporal Anomaly, and a very small fraction (15% in this simulation) of this pattern was subtly incorporated into the Receptor's anomaly signal.
 
-![Señal del Emisor: Patrón Forzado y Claro](input_file_4.jpeg)
+![Señal del Emisor: Patrón Forzado y Claro](./fig_04_action_limit_signals.png)
 *Figure 1: (Top) The clear, forced sinusoidal pattern injected into the Emisor's Temporal Anomaly (Δt). (Bottom) The Receptor's Temporal Anomaly (Δt), which appears as chaotic noise to the naked eye but contains a subtle, induced echo of the Emisor's pattern.*
 
 ## 3.3 Detection via Cross-Correlation Analysis
 
 The Actuador de Inferencia Estructural (AIE) uses cross-correlation to detect the hidden relationship between the Emisor's forced pattern and the Receptor's signal. A strong peak in the cross-correlation indicates a shared pattern.
 
-![Resultado del AIE: Análisis de Correlación Cruzada](input_file_3.jpeg)
+![Resultado del AIE: Análisis de Correlación Cruzada](./fig_05_action_limit_correlation.png)
 *Figure 2: Cross-correlation analysis performed by the AIE. A prominent sinusoidal peak centered at "Desfase Cero" (red dashed line) clearly indicates that the structural pattern from the Emisor is present and synchronized within the Receptor's signal, even when imperceptible to direct observation.*
 
 ## 3.4 Conclusion on the Limit of Action
